@@ -1,5 +1,5 @@
 # Scripts de concreto reforzado
-Este repositorio está dedicado a alohar Jupyter notebooks y scripts de Python que cubren distintos temas de cursos de concreto reforzado.
+Este repositorio está dedicado a alojar Jupyter notebooks y scripts de Python que cubren distintos temas de cursos de concreto reforzado.
 Siéntase libre de utilizarlos dentro de su proceso de aprendizaje o para sus clases.
 
 ## Instrucciones de uso
